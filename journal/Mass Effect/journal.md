@@ -5,4 +5,5 @@
 * Next: Report to Capt. Anderson in the Comm Room.
 
 ###Sun Jul  5 15:21:54 PDT 2015
+- Currently: Eden Prime (Beacon Recovery).
 - Next: Meet Nihlus @ Spaceport.
