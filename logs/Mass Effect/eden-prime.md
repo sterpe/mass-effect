@@ -1,5 +1,9 @@
 #Mass Effect 1 - Conversation Log
 
+##What is this?
+This is a log of my preferred conversation choices in Mass Effect 1.
+Largely, for my own reference, so I don't have to keep re-playing various 
+conversations when I forget.
 ####Joker & Alenko: He gave you a compliment, so you hate him.
 - Cut the chatter.
 - On my way.
