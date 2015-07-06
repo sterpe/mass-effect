@@ -103,3 +103,5 @@ conversations when I forget.
 - There's nothing to report.
 - I'll stop him.
 - We expose him.
+
+\* Re \`Our death.\' : Possibly alluding to the ending of ME3?  Literally, the deaths of Anderson and Shepard.  Interesting to think that there might have been some prescience in the vision from the beacon.  Since ME3, I have been choosing this option.
