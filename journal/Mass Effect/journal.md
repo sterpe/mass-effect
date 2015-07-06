@@ -7,3 +7,9 @@
 ###Sun Jul  5 15:21:54 PDT 2015
 - Currently: Eden Prime (Beacon Recovery).
 - Next: Meet Nihlus @ Spaceport.
+
+###Mon Jul  6 08:57:04 PDT 2015
+	- Currently: Normandy Medbay
+	- Next: talk to Kaiden, Ashley.
+	- Next: Tell Joker to bring us into dock (go to Bridge).
+	- Next: Figure out Talents level up plan (102 pts total).
