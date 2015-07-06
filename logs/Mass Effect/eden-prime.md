@@ -1,18 +1,54 @@
+#Mass Effect 1 - Conversation Log
+
+####Joker & Alenko: He gave you a compliment, so you hate him.
+- Cut the chatter.
+- On my way.
+
+####Pressly: Looks like we had a good run, Commander.
+- He wants to see me.
+- What do you mean?
+- Investigate
+	- Turian Spectre
+	- That was long ago.
+- I'll into it. ('See if I can get some answers when I see him') OR
+	Goodbye ('I need to meet the Captain.')
+
+####Dr. Chakwas & Pvt. Jenkins: What do you think Commander?
+- Part of the job, Doc.
+- It's just another mission.
+- Don't play the hero.
+- Goodbye.
+
+####Nihlus: I was hoping you would get here first...
+- Where's Captain Anderson?
+- I wouldn't know.
+- What's your point?
+
+####Capt Anderson & Nihlus: Eden Prime Mission Brief
+- That's obvious.
+- What are we picking up?
+- Prothean?
+- You sound worried?
+- I should have known.
+- You put my name forward?
+- You support this, Captain?
+- I'm ready to go.
+
 ##Eden Prime
-####Normandy Bay
+####Capt. Anderson: The missions yours, Shepard.
 - Understood, Captain.
 
-####Jenkins dies
+####Alenko: He's dead Commander, ripped right through his shields.
 - (Leave / Forget about) him.
 
-####Encounter Ashley Williams
+####Ashley Williams: Thanks, Commander.
 - What happened here?
 - What happened to your unit?
 - What killed them?
 - Take us there.
 - Let's go.
 
-####Dig Site
+####Alenko & Ashley Williams: Dig Site
 - We're wasting time.
 
 ####Storage Container (Dr. Warren & Dr. Manuel)
