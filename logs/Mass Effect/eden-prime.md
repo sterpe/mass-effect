@@ -24,7 +24,7 @@
 - I wouldn't know.
 - What's your point?
 
-####Capt Anderson & Nihlus: Eden Prime Mission Brief
+####Capt Anderson & Nihlus: This is far more that a simple shake-down run...
 - That's obvious.
 - What are we picking up?
 - Prothean?
@@ -51,7 +51,7 @@
 ####Alenko & Ashley Williams: Dig Site
 - We're wasting time.
 
-####Storage Container (Dr. Warren & Dr. Manuel)
+####Dr. Warren: Humans! Thank the Maker! (Storage Container)
 - Who are you?
 - Investigate
 	- Beacon.
@@ -59,7 +59,7 @@
 	- Attack.
 - Goodbye.
 
-####Storage Container (Cole & Farmers)
+####Farmers: We're coming out and we're not armed. (Storage Container)
 - They're gone.
 - Investigate.
 	- Ship.
@@ -71,7 +71,7 @@
 - Like what?
 - Thanks.
 
-####Commander, it's Nihlus
+####Alenko: Commander, it's Nihlus...
 - Who are you? / You should be more careful!
 - Other one?
 - Then what?
@@ -84,13 +84,13 @@
 - Let's go.
 
 ##Eden Prime (Post-mission)
-####Dr. Chakwas, I think she's waking up (Normandy Medbay)
+####Alenko & Dr. Chakwas: I think she's waking up (Normandy Medbay)
 - Not great.
 - What about the beacon.
 - Thanks.
 - More like a nightmare.
 
-####I need to talk to the Commander, alone.(Medbay, Captain Anderson)
+####Captain Anderson: I need to talk to the Commander, alone. (Medbay)
 - I'm fine.
 - I did my job.
 - He wanted the beacon.
