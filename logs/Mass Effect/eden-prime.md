@@ -104,4 +104,96 @@ conversations when I forget.
 - I'll stop him.
 - We expose him.
 
+
+####Kaiden Alenko: Glad to see you're okay, Commander.  (Normandy Mess)
+- How are you holding up?
+- The mission failed.
+- Soldiers die.
+- Sounds like you've been around
+- I don't have one.
+_ I can't say.
+
+(Skip Conversation with Dr. Chakwas)
+
+####Ashley Williams: (Normandy Mess)
+- He'll be missed 
+- You earned it.
+- How are you holding up?
+- You helped.
+- Glad to have you.
+
+#####Alternate:
+- Soldiers die.
+- I was lucky.
+- I should go.
+
+###Act I: Citadel
+####Ambassador Udina:  I have the mission reports... 
+- It's the truth.
+
+####Embassy Receptionist
+- Have we met? / Commander?  (Same).
+- Investigate
+	- Location
+	- Avina?
+
+####Avina Terminal \#1: Embassy
+- Are you real?
+- Sounds interesting.
+- Investigate
+	- Embassies.
+	- Why was humanity opposed?
+	- What do you think?
+- Log off.
+
+####Avina Terminal \#2: Citadel Tower
+- Investigate
+	- Keepers
+		- Why here?
+	- Relay Monument
+	- Citadel Tower
+		- Council Chambers
+		- It's not open to the public.
+		- I've been asked to go there.
+- Log off.
+
+####Garrus Vakarian: Stall the Council, don't be ridiculous. (Council Chamber)
+- Who was that?
+- What did you find?
+
+####Citadel Council: The hearing's already started, come on.
+- How did you get involved?
+- You'll pay!
+- You arrogant bastard.
+- What's the point?
+
+####Captain Anderson & Udina (Council Chamber) 
+- What about you and Saren?
+- Now what?
+- He could be useful.
+- I'm on it.
+- You want me to go see him?
+- Council and the Ambassador
+	- Why bother?
+	- We're too independent.
+- Harkin
+	- They abandoned him?
+- Spectres
+	- How are they organized?
+	- Is this legal?
+	- How are they chosen?
+	- And if one goes to far?
+- Other leads
+- What about you and Saren?
+- Goodbye
+
+####Chorban and the Keeper (Council Chamber)
+
+####Emily Wong (The Wards)
+- What is it?
+- Source of information.
+- Why me?
+- We'll see.
+
+
 \* Re \`Our death.' : Possibly alluding to the ending of ME3?  Literally, the deaths of Anderson and Shepard.  Interesting to think that there might have been some subconscious prescience in the vision from the beacon.  
