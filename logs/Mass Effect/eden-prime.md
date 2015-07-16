@@ -204,7 +204,7 @@ _ I can't say.
 - That's not why I'm here.
 - Investigate
 	- Garrus
--Goodbye.
+- Goodbye.
 
 #### Conrad Verner I
 - Who are you?

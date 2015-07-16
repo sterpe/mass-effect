@@ -18,8 +18,9 @@
 - Currently: @ Med Clinic...
 - Next: Take Garrus & Kaiden to C-Sec HQ to find Wrex.
 - Proposed level up plan (102 pts):
-|Talent| Points|
---------------
+
+|Talent|Points|
+|------|------|
 |Pistol|12|
 |Shotgun|12|
 |Assault Rifle|12|
