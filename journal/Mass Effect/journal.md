@@ -13,3 +13,19 @@
 	- Next: talk to Kaiden, Ashley.
 	- Next: Tell Joker to bring us into dock (go to Bridge).
 	- Next: Figure out Talents level up plan (102 pts total).
+
+### Thu Jul 16 08:14:05 PDT 2015
+- Currently: @ Med Clinic...
+- Next: Take Garrus & Kaiden to C-Sec HQ to find Wrex.
+- Proposed level up plan (102 pts):
+|Talent| Points|
+--------------
+|Pistol|12|
+|Shotgun|12|
+|Assault Rifle|12|
+|Sniper Rifle|12|
+|Armor|7|
+|Assault Training|12|
+|Fitness|12|
+|Soldier/Commando|12|
+|Spectre Agent|11|

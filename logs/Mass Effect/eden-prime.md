@@ -195,5 +195,41 @@ _ I can't say.
 - Why me?
 - We'll see.
 
+#### Harkin (@ Chora's Den)
+- Forget it.
+- Where's Garrus?
+- Don't waste my time.
+- What went wrong?
+- How do you know this?
+- That's not why I'm here.
+- Investigate
+	- Garrus
+-Goodbye.
+
+#### Conrad Verner I
+- Who are you?
+- Really.
+- I suppose.
+
+#### Volus Expat
+- Colonies?
+- What have you got?
+
+#### Kaiden Alenko & Ashley Williams (Scenic View) 
+- No wonder they need us.
+- Big club.  Why keep humans out?
+- What's not to like?
+- Highly inappropriate.
+
+#### Garrus & Dr. Michelle (@ Med Clinic)
+- No problem.
+- Who were those men?
+- Quarian?
+- Go on.
+- Evidence.
+- We don't have anything yet.
+- Why do you hate Saren?
+- Okay.
+- We could use him.
 
 \* Re \`Our death.' : Possibly alluding to the ending of ME3?  Literally, the deaths of Anderson and Shepard.  Interesting to think that there might have been some subconscious prescience in the vision from the beacon.  
