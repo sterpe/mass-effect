@@ -232,4 +232,20 @@ _ I can't say.
 - Okay.
 - We could use him.
 
+#### Eddie Lang (@ enroute to C-Sec HQ)
+- Investigate 
+	- C-Sec
+- Goodbye
+
+#### Urdnot Wrex (@ C-Sec HQ) 
+- You will
+- I like that saying
+
+(Take Wrex & Kaidan as party members)
+
+#### Fist @ Chora's Den
+- I need information.
+- Where's the meeting?
+- He deserved it.
+
 \* Re \`Our death.' : Possibly alluding to the ending of ME3?  Literally, the deaths of Anderson and Shepard.  Interesting to think that there might have been some subconscious prescience in the vision from the beacon.  

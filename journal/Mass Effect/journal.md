@@ -30,3 +30,8 @@
 |Fitness|12|
 |Soldier/Commando|12|
 |Spectre Agent|11|
+
+
+### Mon Jul 27 07:55:54 PDT 2015
+
+- Currently en-route to save the Quarian.
