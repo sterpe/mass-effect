@@ -1,4 +1,4 @@
-masseffect
+mass effect
 ==========
 
 Face codes across all three Mass Effect games for my femShep build.
