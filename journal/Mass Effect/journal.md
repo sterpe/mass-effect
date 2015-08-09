@@ -38,3 +38,5 @@
 
 ### Sun Aug  9 14:37:55 PDT 2015
 - Granted Spectre Status; head down to C-Sec/docks.
+- Need to wrap up with Emily Wong & Dr. Michelle.
+- Need to visit Barla Von.
