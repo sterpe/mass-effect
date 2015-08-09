@@ -35,3 +35,6 @@
 ### Mon Jul 27 07:55:54 PDT 2015
 
 - Currently en-route to save the Quarian.
+
+### Sun Aug  9 14:37:55 PDT 2015
+- Granted Spectre Status; head down to C-Sec/docks.
