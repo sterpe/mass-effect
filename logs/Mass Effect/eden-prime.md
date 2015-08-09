@@ -248,4 +248,49 @@ _ I can't say.
 - Where's the meeting?
 - He deserved it.
 
+#### Tali'Zorah nar Rayya @ Alleyway
+- I took care of him.
+- I'm with the Alliance.
+
+#### Tali @ Ambassador's Office
+- Just doing my job.
+- Pilgrimage?
+- And what did you find?
+- Go on.
+- What's the Conduit?
+- Reapers?  Sounds familiar.
+- It's true.
+- Will they believe it?
+- What about your quest?
+- You're not ready for this.
+
+#### Samesh Bhatia @ Citadel Embassies 
+- I'm listening.
+- Did they say why?
+- I'll find out.
+
+#### Council Chamber @ Citadel Tower: II
+- Matriarch Benezia?
+- The geth revere them.
+- It's trouble.
+- You doubted me before.
+- You're wrong.
+- Send me.
+- It's the best solution.
+- What happens now?
+- Any leads?
+- I don't blame him.
+
+#### Barla Von @ Financial District: I
+- Have we met?
+- I was told to talk with you.
+- Investigate
+	- Shadow Broker.
+	- Who is he?
+	- But you're his agent.
+	- Personal questions.
+	- Is this legal?
+	- I don't buy it.
+- Goodbye.
+
 \* Re \`Our death.' : Possibly alluding to the ending of ME3?  Literally, the deaths of Anderson and Shepard.  Interesting to think that there might have been some subconscious prescience in the vision from the beacon.  
