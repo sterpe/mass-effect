@@ -188,6 +188,10 @@ _ I can't say.
 - Goodbye
 
 ####Chorban and the Keeper (Council Chamber)
+- Following the keepers?
+- Why not?
+- Why the lies?
+- Not interested.
 
 ####Emily Wong (The Wards)
 - What is it?
@@ -281,6 +285,9 @@ _ I can't say.
 - Any leads?
 - I don't blame him.
 
+#### Council Chamber: Garoth
+- Goodbye
+
 #### Barla Von @ Financial District: I
 - Have we met?
 - I was told to talk with you.
@@ -291,6 +298,63 @@ _ I can't say.
 	- Personal questions.
 	- Is this legal?
 	- I don't buy it.
+- Goodbye.
+
+#### Emporium Shopkeeper: Delanynder
+- Personal question.
+- Investigate
+	- Goods.
+	- Your speech.
+- Let's see what you have.
+
+#### Presidium: Helena Blake
+- I'm not interested. / How do you know me?
+- Her interest.
+- I could charge you.
+- No.  I won't do this.
+
+#### Presidium Tourism Terminal III: Krogan Statue
+- Memorial Statue
+- Krogan Rebellions
+- Sounds like a vicious cycle.
+- Log off.
+
+#### Emily Wong: Fist's Disks
+- I found some disks.
+- No problem.
+
+#### Dr. Michelle: A proper thank you
+- Happy to help.
+- Personal question.
+- I need supplies.
+
+#### C-Sec Requisition Office
+- You know me?
+- I need supplies.
+- Whatever.
+
+#### Citadel Docking Bay: Udina & Anderson
+- What's going on?
+- There's more to this.
+- What went wrong?
+- You can count on me.
+- What about the Reapers?
+- Is that it?
+- I'll start with Feros.
+- It might be necessary.
+
+#### Citadel Docking Bay: Captain Anderson
+- Are you okay?
+- You and Saren have a past.
+- What happened?
+- Something went wrong?
+- That's a little extreme.
+- You got blamed?
+- That's not fair!
+- It wasn't your fault.
+- This doesn't matter.
+- Investigate
+	- Artemis Tau Cluster
 - Goodbye.
 
 \* Re \`Our death.' : Possibly alluding to the ending of ME3?  Literally, the deaths of Anderson and Shepard.  Interesting to think that there might have been some subconscious prescience in the vision from the beacon.  
