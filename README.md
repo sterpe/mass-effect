@@ -1,5 +1,9 @@
-mass effect
-==========
+# mass effect
+
+#### Current Playthrough
+https://www.pivotaltracker.com/n/projects/1423086
+
+#### Commander Shepard
 
 Face codes across all three Mass Effect games for my femShep build.
 
