@@ -108,7 +108,7 @@
 - Soldiers die.
 - Sounds like you've been around
 - I don't have one.
-_ I can't say.
+- I can't say.
 
 ##### Normandy Mess: Dr. Chakwas
 (Skip this conversation.)
