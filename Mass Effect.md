@@ -121,9 +121,9 @@ _ I can't say.
 - Glad to have you.
 
 #### Normandy Mess: Ashley Williams (alternate flow)
-	- Soldiers die.
-	- I was lucky.
-	- I should go.
+- Soldiers die.
+- I was lucky.
+- I should go.
 
 ## Citadel I
 
