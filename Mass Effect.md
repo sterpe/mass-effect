@@ -1,5 +1,3 @@
-# Mass Effect
-
 ## Normandy - Intro
 
 #### Normandy Bridge: Joker w/ Kaiden Alenko
@@ -98,7 +96,7 @@
 - I did my job.
 - He wanted the beacon.
 - I'm not sure.
-- Our death. *
+- Our death.<sup>[1](#footnote1)</sup>
 - There's nothing to report.
 - I'll stop him.
 - We expose him.
@@ -116,12 +114,13 @@ _ I can't say.
 (Skip this conversation.)
 
 #### Normandy Mess: Ashley Williams
-	- He'll be missed 
-	- You earned it.
-	- How are you holding up?
-	- You helped.
-	- Glad to have you.
-(Alternate):
+- He'll be missed 
+- You earned it.
+- How are you holding up?
+- You helped.
+- Glad to have you.
+
+#### Normandy Mess: Ashley Williams (alternate flow)
 	- Soldiers die.
 	- I was lucky.
 	- I should go.
@@ -210,7 +209,7 @@ _ I can't say.
 	- Garrus
 - Goodbye.
 
-### Citadel Wards - Marketplace: Conrad Verner
+#### Citadel Wards - Marketplace: Conrad Verner
 - Who are you?
 - Really.
 - I suppose.
@@ -358,3 +357,5 @@ _ I can't say.
 - Goodbye.
 
 \* Re \`Our death.' : Possibly alluding to the ending of ME3?  Literally, the deaths of Anderson and Shepard.  Interesting to think that there might have been some subconscious prescience in the vision from the beacon.  
+
+<a name="footnote1">1</a>: Footnote content goes here.
