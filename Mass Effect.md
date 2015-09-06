@@ -358,4 +358,4 @@ _ I can't say.
 
 \* Re \`Our death.' : Possibly alluding to the ending of ME3?  Literally, the deaths of Anderson and Shepard.  Interesting to think that there might have been some subconscious prescience in the vision from the beacon.  
 
-<a name="footnote1">1</a>: Footnote content goes here.
+<a name="footnote1">1</a>: Interesting to read this as alluding to the literal deaths of Anderson and Shepard in ME3.
