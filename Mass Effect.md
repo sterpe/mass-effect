@@ -1,10 +1,10 @@
 ## Normandy - Intro
 
-#### Normandy Bridge: Joker w/ Kaiden Alenko
+##### Normandy Bridge: Joker w/ Kaiden Alenko
 - Cut the chatter.
 - On my way.
 
-#### Normandy CIC: Lieutenant Pressly
+##### Normandy CIC: Lieutenant Pressly
 - He wants to see me.
 - What do you mean?
 - Investigate
@@ -12,18 +12,18 @@
 	- That was long ago.
 - I'll look into it / Goodbye.
 
-#### Normandy CIC: Dr. Chakwas w/ Private Jenkins
+##### Normandy CIC: Dr. Chakwas w/ Private Jenkins
 - Part of the job, Doc.
 - It's just another mission.
 - Don't play the hero.
 - Goodbye
 
-#### Normandy Briefing Room: Nihlus
+##### Normandy Briefing Room: Nihlus
 - Where's Captain Anderson?
 - I wouldn't know.
 - What's your point?
 
-#### Normandy Briefing Room: Nihlus w/ Captain Anderson
+##### Normandy Briefing Room: Nihlus w/ Captain Anderson
 - That's obvious.
 - What are we picking up?
 - Prothean?
@@ -35,23 +35,23 @@
 
 ## Eden Prime
 
-#### Normandy Bay: Captain Anderson
+##### Normandy Bay: Captain Anderson
 - Understood, Captain.
 
-#### Eden Prime - Jenkins: Kaiden Alenko
+##### Eden Prime - Jenkins: Kaiden Alenko
 - Forget about him.
 
-#### Eden Prime - Rescue the 212: Ashley Williams
+##### Eden Prime - Rescue the 212: Ashley Williams
 - What happened here?
 - What happened to your unit?
 - What killed them?
 - Take us there.
 - Let's go.
 
-#### Eden Prime - Dig Site: Ashley Williams w/ Kaiden Alenko
+##### Eden Prime - Dig Site: Ashley Williams w/ Kaiden Alenko
 - We're wasting time.
 
-#### Eden Prime - Dig Site: Scientists
+##### Eden Prime - Dig Site: Scientists
 - Who are you?
 - Investigate
 	- Beacon.
@@ -59,7 +59,7 @@
 	- Attack.
 - Goodbye.
 
-#### Eden Prime - Spaceport: Farmers
+##### Eden Prime - Spaceport: Farmers
 - They're gone.
 - Investigate.
 	- Ship.
@@ -71,7 +71,7 @@
 - Like what?
 - Thanks.
 
-#### Eden Prime - Spaceport, Nihlus: Dock Worker
+##### Eden Prime - Spaceport, Nihlus: Dock Worker
 - Who are you? / You should be more careful!
 - Other one?
 - Then what?
@@ -85,13 +85,13 @@
 
 ## Normandy - Eden Prime Post Mission
 
-#### Normandy Medbay: Kaiden Alenko w/ Dr. Chakwas
+##### Normandy Medbay: Kaiden Alenko w/ Dr. Chakwas
 - Not great.
 - What about the beacon.
 - Thanks.
 - More like a nightmare.
 
-#### Normandy Medbay: Captain Anderson
+##### Normandy Medbay: Captain Anderson
 - I'm fine.
 - I did my job.
 - He wanted the beacon.
@@ -102,7 +102,7 @@
 - We expose him.
 
 
-#### Normandy Mess: Kaiden Alenko
+##### Normandy Mess: Kaiden Alenko
 - How are you holding up?
 - The mission failed.
 - Soldiers die.
@@ -110,33 +110,33 @@
 - I don't have one.
 _ I can't say.
 
-#### Normandy Mess: Dr. Chakwas
+##### Normandy Mess: Dr. Chakwas
 (Skip this conversation.)
 
-#### Normandy Mess: Ashley Williams
+##### Normandy Mess: Ashley Williams
 - He'll be missed 
 - You earned it.
 - How are you holding up?
 - You helped.
 - Glad to have you.
 
-#### Normandy Mess: Ashley Williams (alternate flow)
+##### Normandy Mess: Ashley Williams (alternate flow)
 - Soldiers die.
 - I was lucky.
 - I should go.
 
 ## Citadel I
 
-#### Citadel - Human Embassy: Ambassador Udina
+##### Citadel - Human Embassy: Ambassador Udina
 - It's the truth.
 
-#### Citadel - Embassies: Receptionist
+##### Citadel - Embassies: Receptionist
 - Have we met? / Commander?
 - Investigate
 	- Location
 	- Avina?
 
-#### Citadel Tourism Terminal I - Embassies: Avina
+##### Citadel Tourism Terminal I - Embassies: Avina
 - Are you real?
 - Sounds interesting.
 - Investigate
@@ -145,7 +145,7 @@ _ I can't say.
 	- What do you think?
 - Log off.
 
-#### Citadel Tourism Terminal II - Citadel Tower: Avina
+##### Citadel Tourism Terminal II - Citadel Tower: Avina
 - Investigate
 	- Keepers
 		- Why here?
@@ -156,17 +156,17 @@ _ I can't say.
 		- I've been asked to go there.
 - Log off.
 
-#### Citadel Council Chamber: Garrus Vakarian w/ Executor Palin
+##### Citadel Council Chamber: Garrus Vakarian w/ Executor Palin
 - Who was that?
 - What did you find?
 
-#### Citadel Council Chamber: Saren w/ Citadel Council
+##### Citadel Council Chamber: Saren w/ Citadel Council
 - How did you get involved?
 - You'll pay!
 - You arrogant bastard.
 - What's the point?
 
-#### Citadel Council Chamber: Captain Anderson w/ Ambassador Udina
+##### Citadel Council Chamber: Captain Anderson w/ Ambassador Udina
 - What about you and Saren?
 - Now what?
 - He could be useful.
@@ -186,19 +186,19 @@ _ I can't say.
 - What about you and Saren?
 - Goodbye
 
-#### Citadel Council Chamber: Chorban w/ the Keeper
+##### Citadel Council Chamber: Chorban w/ the Keeper
 - Following the keepers?
 - Why not?
 - Why the lies?
 - Not interested.
 
-#### Citadel Wards: Emily Wong
+##### Citadel Wards: Emily Wong
 - What is it?
 - Source of information.
 - Why me?
 - We'll see.
 
-#### Citadel Wards - Chora's Den: Harkin
+##### Citadel Wards - Chora's Den: Harkin
 - Forget it.
 - Where's Garrus?
 - Don't waste my time.
@@ -209,22 +209,22 @@ _ I can't say.
 	- Garrus
 - Goodbye.
 
-#### Citadel Wards - Marketplace: Conrad Verner
+##### Citadel Wards - Marketplace: Conrad Verner
 - Who are you?
 - Really.
 - I suppose.
 
-#### Citadel Wards - Marketplace: Volus Expat
+##### Citadel Wards - Marketplace: Volus Expat
 - Colonies?
 - What have you got?
 
-#### Citadel Wards - Scenic View: Kaiden Alenko w/ Ashley Williams
+##### Citadel Wards - Scenic View: Kaiden Alenko w/ Ashley Williams
 - No wonder they need us.
 - Big club.  Why keep humans out?
 - What's not to like?
 - Highly inappropriate.
 
-#### Citadel Wards - Med Clinic: Dr. Michell w/ Garrus
+##### Citadel Wards - Med Clinic: Dr. Michell w/ Garrus
 - No problem.
 - Who were those men?
 - Quarian?
@@ -235,27 +235,27 @@ _ I can't say.
 - Okay.
 - We could use him.
 
-#### Citadel Wards - Stairwell: Officer Eddie Lang
+##### Citadel Wards - Stairwell: Officer Eddie Lang
 - Investigate 
 	- C-Sec
 - Goodbye
 
-#### Citadel C-Sec Headquarters: Urdnot Wrex
+##### Citadel C-Sec Headquarters: Urdnot Wrex
 - You will
 - I like that saying
 
 (Take Wrex & Kaiden as party members)
 
-#### Citadel Wards - Chora's Den: Fist
+##### Citadel Wards - Chora's Den: Fist
 - I need information.
 - Where's the meeting?
 - He deserved it.
 
-#### Citadel Wards - Alleyway: Tali'Zorah nar Rayya
+##### Citadel Wards - Alleyway: Tali'Zorah nar Rayya
 - I took care of him.
 - I'm with the Alliance.
 
-#### Citadel Embassies: Tali'Zorah
+##### Citadel Embassies: Tali'Zorah
 - Just doing my job.
 - Pilgrimage?
 - And what did you find?
@@ -267,12 +267,12 @@ _ I can't say.
 - What about your quest?
 - You're not ready for this.
 
-#### Citadel Embassies - Waiting Area: Samesh Bhatia
+##### Citadel Embassies - Waiting Area: Samesh Bhatia
 - I'm listening.
 - Did they say why?
 - I'll find out.
 
-#### Citadel Council Chamber: Citadel Council
+##### Citadel Council Chamber: Citadel Council
 - Matriarch Benezia?
 - The geth revere them.
 - It's trouble.
@@ -284,10 +284,10 @@ _ I can't say.
 - Any leads?
 - I don't blame him.
 
-#### Citadel Council Chamber: Garoth
+##### Citadel Council Chamber: Garoth
 - Goodbye
 
-#### Citadel Financial District: Barla Von
+##### Citadel Financial District: Barla Von
 - Have we met?
 - I was told to talk with you.
 - Investigate
@@ -299,40 +299,40 @@ _ I can't say.
 	- I don't buy it.
 - Goodbye.
 
-#### Citadel Financial District: Emporium Shopkeeper
+##### Citadel Financial District: Emporium Shopkeeper
 - Personal question.
 - Investigate
 	- Goods.
 	- Your speech.
 - Let's see what you have.
 
-#### Citadel Financial District: Helena Blake
+##### Citadel Financial District: Helena Blake
 - I'm not interested. / How do you know me?
 - Her interest.
 - I could charge you.
 - No.  I won't do this.
 
-#### Citadel Tourism Terminal III - Krogan Statue: Avina
+##### Citadel Tourism Terminal III - Krogan Statue: Avina
 - Memorial Statue
 - Krogan Rebellions
 - Sounds like a vicious cycle.
 - Log off.
 
-#### Emily Wong: Fist's Disks
+##### Emily Wong: Fist's Disks
 - I found some disks.
 - No problem.
 
-#### Dr. Michelle: A proper thank you
+##### Dr. Michelle: A proper thank you
 - Happy to help.
 - Personal question.
 - I need supplies.
 
-#### C-Sec Requisition Office
+##### C-Sec Requisition Office
 - You know me?
 - I need supplies.
 - Whatever.
 
-#### Citadel Docking Bay: Udina & Anderson
+##### Citadel Docking Bay: Udina & Anderson
 - What's going on?
 - There's more to this.
 - What went wrong?
@@ -342,7 +342,7 @@ _ I can't say.
 - I'll start with Feros.
 - It might be necessary.
 
-#### Citadel Docking Bay: Captain Anderson
+##### Citadel Docking Bay: Captain Anderson
 - Are you okay?
 - You and Saren have a past.
 - What happened?
@@ -356,6 +356,6 @@ _ I can't say.
 	- Artemis Tau Cluster
 - Goodbye.
 
-\* Re \`Our death.' : Possibly alluding to the ending of ME3?  Literally, the deaths of Anderson and Shepard.  Interesting to think that there might have been some subconscious prescience in the vision from the beacon.  
+## Notes
 
-<a name="footnote1">[1](#normandy-medbay-captain-anderson)</a>: Interesting to read this as alluding to the literal deaths of Anderson and Shepard in ME3.
+<a name="footnote1">[1](#normandy-medbay-captain-anderson)</a>: It is interesting to read this as a perhaps subconscious allusion to their personal deaths at the end of the series.
