@@ -63,3 +63,5 @@ _Scar_ | 6 | n/a | n/a
 *Blush* | 6 | 6 | 2?
 *Lip Color* | 1 | 1 | 1 
 *Eyeshadow* | 5 | 5 | 5
+
+See also https://github.com/sterpe/me2-gibbed-editor-facecode
