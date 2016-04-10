@@ -356,6 +356,19 @@
 	- Artemis Tau Cluster
 - Goodbye.
 
+## Commander of the Normandy
+
+##### Normandy Bridge 
+- I'm ready.
+- Let's keep this short.
+- We must not fail.
+- Not if we fail.
+
+##### Normandy CIC: Lieutenant Pressly
+- They're on our side.
+- You doubt my decisions?
+
 ## Notes
+-
 
 <a name="footnote1">[1](#normandy-medbay-captain-anderson)</a>: It is interesting to read this as a perhaps subconscious allusion to their personal deaths at the end of the series.
