@@ -2,13 +2,14 @@
 
 <!-- toc -->
 
+- [introduction](#introduction)
 - [definitions](#definitions)
-- [global rules](#global-rules)
+- [global rules `*`](#global-rules-)
 - [game specific rules](#game-specific-rules)
   * [Mass Effect](#mass-effect)
-    + [Shortage](#shortage)
-    + [Vanilla Rounds](#vanilla-rounds)
-    + [Adept Privilege](#adept-privilege)
+    + [Shortage `*`](#shortage-)
+    + [Vanilla Rounds `*`](#vanilla-rounds-)
+    + [Adept Privilege `*`](#adept-privilege-)
     + [Safespace-free Zones (AKA Lockdown)]
     (#safespace-free-zones-aka-lockdown)
     + [Jarhead](#jarhead)
@@ -16,17 +17,25 @@
     + [Med-clinic Economics](#med-clinic-economics)
     + [Spoils of War: Geth Pulse Rifle]
     (#spoils-of-war-geth-pulse-rifle)
-    + [No License: Geth Armory]
-    (#no-license-geth-armory)
+    + [No License: Geth Armory](#no-license-geth-armory)
     + [Mineral of Opportunity](#mineral-of-opportunity)
     + [Narrative Play](#narrative-play)
   * [Mass Effect 2](#mass-effect-2)
-    + [Scorched Earth](#scorched-earth)
-    + [Small Arms](#small-arms)
-    + [Borrowed Time](#borrowed-time)
+    + [Scorched Earth `*`](#scorched-earth-)
+    + [Small Arms `*`](#small-arms-)
+    + [Borrowed Time `*`](#borrowed-time-)
     + [Toothless](#toothless)
 
 <!-- tocstop -->
+
+## introduction
+This document provides a rule set to govern permadeath Insanity
+playthroughs of the _**Mass Effect Trilogy**_.  The rules are based
+largely off of Twitcher _**@sizesixteens**_ who did most of the 
+groundbreaking work in this regard.  His rules are marked with an 
+asterisk (`*`).  In cases where we both have the same rule under
+a different rule name _@sizesixteens_'s name for the rule appears
+in parenthesis.
 
 ## definitions
 
@@ -59,7 +68,7 @@ The following definitions apply to this document:
 	limitations in enemy combat AI is **not** considered
 	to be an exploit.
 
-## global rules
+## global rules `*`
 - No `death` allowed. A dead Shepard is deleted across
 	all games.
 - A `void` may be allowed where and when applicable. See
@@ -85,7 +94,7 @@ The following definitions apply to this document:
 ### Mass Effect
 The following additional rules are applicable to _**Mass Effect**_.
 
-#### Shortage
+#### Shortage `*`
 All found equipment or looted equipment must be reduced to
 omni-gel.  Any new equipment must be purchased either from
 merchants, the _Normandy_ quartermaster, or received as
@@ -110,7 +119,7 @@ are also excepted from this rule, though it hardly
 matters at that point, since they are usually Level II
 items.
 
-#### Vanilla Rounds
+#### Vanilla Rounds `*`
 No weapons mods may be used by Shepard nor by any squad member.
 
 Removing weapons mods from the game simplifies inventory management
@@ -125,7 +134,7 @@ weapons and therfore that such equipment will be stronger or atleast
 more evenly distributed amongst the team. Buying biotic-amps and
 omni-tools also becomes more feasible.
 
-#### Adept Privilege
+#### Adept Privilege `*`
 Singularity is banned as a bonus talent, limiting it to Adepts only.
 
 In _Mass Effect_ Singularity is so absurdly broken that it's
@@ -282,9 +291,9 @@ XP and credit grinding.
 
 ### Mass Effect 2
 
-#### Scorched Earth
-#### Small Arms
-#### Borrowed Time
+#### Scorched Earth `*`
+#### Small Arms `*`
+#### Borrowed Time `*`
 #### Toothless
 Sniper Rifle-wielding squadmates Garrus, Thane, Legion, and Zaeed
 are prohibited from carrying the M-29 Incisor Sniper Rifle.
