@@ -52,6 +52,8 @@ The following definitions apply to this document:
 	the same game.
 - No "New Game+".
 
+## game specific rules
+
 ### Mass Effect
 
 #### Shortage
