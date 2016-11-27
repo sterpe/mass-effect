@@ -4,6 +4,7 @@ PreCommit:
     description: Verify source lines do not exceed 72 columns
     max: 72
     exclude: [
+      "package.json",
       "__tests__/**/*.xml",
       "__tests__/**/*.srt"
     ]

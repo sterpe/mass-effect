@@ -1,5 +1,28 @@
 # mass-effect-permadeath
 
+<!-- toc -->
+
+- [definitions](#definitions)
+- [global rules](#global-rules)
+- [game specific rules](#game-specific-rules)
+  * [Mass Effect](#mass-effect)
+    + [Shortage](#shortage)
+    + [Vanilla Rounds](#vanilla-rounds)
+    + [Adept Privilege](#adept-privilege)
+    + [Safespace-free Zones 
+      (AKA Lockdown)](#safespace-free-zones-aka-lockdown)
+    + [Jarhead](#jarhead)
+    + [Always in Regs](#always-in-regs)
+    + [Med-clinic Economics](#med-clinic-economics)
+    + [Spoils of War: Geth Pulse Rifle]
+      (#spoils-of-war-geth-pulse-rifle)
+    + [No License for Ridiculousness: Geth Armory]
+      (#no-license-for-ridiculousness-geth-armory)
+    + [Mineral of Opportunity](#mineral-of-opportunity)
+    + [Narrative Play](#narrative-play)
+
+<!-- tocstop -->
+
 ## definitions
 
 The following definitions apply to this document:
