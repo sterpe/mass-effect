@@ -9,17 +9,22 @@
     + [Shortage](#shortage)
     + [Vanilla Rounds](#vanilla-rounds)
     + [Adept Privilege](#adept-privilege)
-    + [Safespace-free Zones 
-      (AKA Lockdown)](#safespace-free-zones-aka-lockdown)
+    + [Safespace-free Zones (AKA Lockdown)]
+    (#safespace-free-zones-aka-lockdown)
     + [Jarhead](#jarhead)
     + [Always in Regs](#always-in-regs)
     + [Med-clinic Economics](#med-clinic-economics)
     + [Spoils of War: Geth Pulse Rifle]
-      (#spoils-of-war-geth-pulse-rifle)
-    + [No License for Ridiculousness: Geth Armory]
-      (#no-license-for-ridiculousness-geth-armory)
+    (#spoils-of-war-geth-pulse-rifle)
+    + [No License: Geth Armory]
+    (#no-license-geth-armory)
     + [Mineral of Opportunity](#mineral-of-opportunity)
     + [Narrative Play](#narrative-play)
+  * [Mass Effect 2](#mass-effect-2)
+    + [Scorched Earth](#scorched-earth)
+    + [Small Arms](#small-arms)
+    + [Borrowed Time](#borrowed-time)
+    + [Toothless](#toothless)
 
 <!-- tocstop -->
 
@@ -224,7 +229,7 @@ such equipment is likely small and 2) the military value of
 studying said equipment would preclude the possibility that 
 one would sell it to a random merchant.
 
-#### No License for Ridiculousness: Geth Armory
+#### No License: Geth Armory
 A Geth Armory license for the _Normandy_ quartermaster may
 **not** be purchased.  It's ridiculous from both a role-playing
 and narrative, world-building point of view.
@@ -274,3 +279,23 @@ into or landed upon until better ready to do so.
 This rule is intended to keep a perma-death playthrough a character-
 driven story rather than a mechanical and disjointed exercise in
 XP and credit grinding.
+
+### Mass Effect 2
+
+#### Scorched Earth
+#### Small Arms
+#### Borrowed Time
+#### Toothless
+Sniper Rifle-wielding squadmates Garrus, Thane, Legion, and Zaeed
+are prohibited from carrying the M-29 Incisor Sniper Rifle.
+
+The Incisor is so cool, but it has a serious ammo consumption
+problem for Shepard, however it's fantastic for allies...perhaps
+too fantastic.  The damage governor on this rifle was accidentally
+left off so even on the hardest difficulties Shepard can literally
+just run along behind a pair of Incisor-wielding teammates while
+they demolish entire levels themselves.
+
+It's awesome to watch but cheap as all and not very sporting
+or very much within the spirit of a permadeath Insanity run, so
+for this reason the M-29 is banned for squadmates.
