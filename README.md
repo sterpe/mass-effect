@@ -55,6 +55,7 @@ The following definitions apply to this document:
 ## game specific rules
 
 ### Mass Effect
+The following additional rules are applicable to __**Mass Effect**__.
 
 #### Shortage
 All found equipment or looted equipment must be reduced to
