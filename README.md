@@ -29,13 +29,30 @@
 <!-- tocstop -->
 
 ## introduction
-This document provides a rule set to govern permadeath Insanity
-playthroughs of the _**Mass Effect Trilogy**_.  The rules are based
-largely off of Twitcher _**@sizesixteens**_ who did most of the 
-groundbreaking work in this regard.  His rules are marked with an 
-asterisk (`*`).  In cases where we both have the same rule under
-a different rule name _@sizesixteens_'s name for the rule appears
-in parenthesis.
+This document provides a set of rules to govern permadeath Insanity
+playthrough attempts of the _**Mass Effect Trilogy**_.  These rules
+are originally based off of Twitch streamer [*@sizesixteens*]
+(https://www.twitch.tv/sizesixteens) rules as he did most of [the
+groundbreaking work on **Mass Effect** permadeath]
+(http://bit.ly/2gwz9ID). His original rules are marked with an
+asterisk (`*`).  In cases where he coincidentally adopted one
+of these rules as his own, his rule's name is identified in
+parenthesis.
+
+In some cases I have tried to clarify specific edge cases and
+questions that arose in the wording of his original rules. In
+general I have tried to ensure these rules are more restrictive
+and not less so than his own with the intent that this
+rules set is a valid subset of [his original rules]
+(http://bit.ly/2glAdQi).
+
+The rest of the rules are my own spin and takes on the issue
+of permadeath rules applicable to each game.  I also tried to
+provide more formal definitions for common terms like `death` and
+`void`, etc.
+
+Shout out to *@sizesixteens* for the inspiration.  All mistakes
+and oversights in this document are my own.
 
 ## definitions
 
