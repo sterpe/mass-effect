@@ -309,8 +309,66 @@ XP and credit grinding.
 ### Mass Effect 2
 
 #### Scorched Earth `*`
+No planet scanning for resources. All resources must be obtained in
+the field, from import bonuses, or through deliveries to the Shadow
+Broker's ship.
+
+This rule reduces "dead" time when streaming. Planet scanning can
+be quite relaxing, but during a stream it's difficult to maintain
+commentary and viewer interest.  The rule's primary purpose however,
+is to prevent maximization. Being unable to buy every upgrade means
+that upgrade decisions require more thought and carry opportunity
+costs.
+
+It also introduces a bit of fun as the player is forced to rely on
+the random shipments to the Shadow Broker vessel to afford a lot of
+upgrades.  These shipments can be any of the four resources and
+range from 1250 units all the way up to 160K (element zero is
+capped at 80K), but higher amounts are exponentially rare.
+
 #### Small Arms `*`
+No heavy weapons.
+
+Heavy weapons deflate a lot of tension in battle.  They are fun to use
+but heavy weapons give Shepard an extremely powerful option for crowd
+control that trumps all others. There's also simply so much heavy
+weapon ammo and upgrades throughout the game that one doesn't
+even need to be particularly strategic or judicious in the use
+of such weapons.
+
 #### Borrowed Time `*`
+Only one optional mission is allowed between recruitment missions.
+Additionally, as soon as the suicide mission is available, it must be
+the _Normandy_'s next destination.
+
+This rules mechanics and implications require some explanation. First
+some clarifications:
+
+- "Optional mission" refers to any mission that has a 
+"Mission Complete"
+screen and is not required for the ME2 save to be "import-ready" for
+ME3.
+- "Recruitment mission" refers to any mission that may result in a
+net increase to squad size, even if the new squadmember is not 
+actually recruited.
+- Under the above definition, the prologue is considered a recruitment
+mission for both Miranda and Jacob, so one optional mission is allowed
+before recruiting a third squad member.
+- The Collector Ship, Freedom's Progress, and Horizon missions are 
+not factored into this mission sequence, since they are non-optional
+and not recruitment missions.
+- Samara's Loyalty mission is an "Optional mission" not a "Recruitment
+mission" for her daughter Morinth, since there is no net change in
+squad size.
+
+This rule is meant to limit XP gain and the number of completed loyalty
+mission prior to the Reaper IFF mission which, essentially, kicks off
+the Suicide mission.  Instead of cramming all loyalties mission in 
+before retrieving the IFF, this method is specifically timed to give
+seven (7) loyalty missions.  This is the mininum number of loyalties
+to run a perfect suicide mission while still leaving many, many
+opportunities to lose a lot of people.
+
 #### Toothless
 Sniper Rifle-wielding squadmates Garrus, Thane, Legion, and Zaeed
 are prohibited from carrying the M-29 Incisor Sniper Rifle.
