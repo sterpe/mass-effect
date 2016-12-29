@@ -370,6 +370,8 @@ actually recruited.
 - Under the above definition, the prologue is considered a recruitment
 mission for both Miranda and Jacob, so one optional mission is allowed
 before recruiting a third squad member.
+- Acquire Repear IFF (Ancient Reaper) is considered as Legion's
+Recruitment mission.
 - The Collector Ship, Freedom's Progress, and Horizon missions are 
 not factored into this mission sequence, since they are non-optional
 and not recruitment missions.
