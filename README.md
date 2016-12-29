@@ -311,6 +311,15 @@ to any Star System s/he is unprepared at the current time to tackle.
 The rule's purpose is intended to enforce narrative logic onto the
 playthrough.
 
+Note on Tantau & Pinnacle Station:
+
+Tantau, the site of Wrex's loyalty mission, and Pinnacle Station
+which this rule defines as an exempted hub world are both in the
+same system (somewhere in Phoenix Massing Cluster, I believe). The
+_Normandy_ may enter and leave the star system at will without
+first completing Tantau's quests, however once a landing party
+drops to Tantau this rule applies as normal.
+
 ### Mass Effect 2
 
 #### Scorched Earth `*`
