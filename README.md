@@ -376,6 +376,13 @@ and not recruitment missions.
 - Samara's Loyalty mission is an "Optional mission" not a "Recruitment
 mission" for her daughter Morinth, since there is no net change in
 squad size.
+- All of Overlord DLC is considered to be 1 (one) "Optional Mission"
+as even though there are multiple "Mission Complete" screens, as it
+is an atomic mission set and impossible once started to then back
+out or piecemeal the sub-missions at a different time.  The individual
+XP for each mission is also relatively low and taken together only
+sums to about 1 Level (roughly 1200 XP) so it doesn't seem to be a 
+violation of rule intent to treat it that way.
 
 This rule is meant to limit XP gain and the number of completed loyalty
 mission prior to the Reaper IFF mission which, essentially, kicks off
