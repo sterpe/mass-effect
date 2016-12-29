@@ -21,6 +21,8 @@
     + [Mineral of Opportunity](#mineral-of-opportunity)
     + [Narrative Play: When we start a mission, we finish it.]
 (#narrative-play-when-we-start-a-mission-we-finish-it)
+      - [Note on Tantau & Pinnacle Station:]
+(#note-on-tantau--pinnacle-station)
   * [Mass Effect 2](#mass-effect-2)
     + [Scorched Earth `*`](#scorched-earth-)
     + [Small Arms `*`](#small-arms-)
@@ -311,7 +313,7 @@ to any Star System s/he is unprepared at the current time to tackle.
 The rule's purpose is intended to enforce narrative logic onto the
 playthrough.
 
-Note on Tantau & Pinnacle Station:
+##### Note on Tantau & Pinnacle Station:
 
 Tantau, the site of Wrex's loyalty mission, and Pinnacle Station
 which this rule defines as an exempted hub world are both in the
