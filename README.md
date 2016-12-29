@@ -11,15 +11,16 @@
     + [Vanilla Rounds `*`](#vanilla-rounds-)
     + [Adept Privilege `*`](#adept-privilege-)
     + [Safespace-free Zones (AKA Lockdown)]
-    (#safespace-free-zones-aka-lockdown)
+(#safespace-free-zones-aka-lockdown)
     + [Jarhead](#jarhead)
     + [Always in Regs](#always-in-regs)
     + [Med-clinic Economics](#med-clinic-economics)
     + [Spoils of War: Geth Pulse Rifle]
-    (#spoils-of-war-geth-pulse-rifle)
+(#spoils-of-war-geth-pulse-rifle)
     + [No License: Geth Armory](#no-license-geth-armory)
     + [Mineral of Opportunity](#mineral-of-opportunity)
-    + [Narrative Play](#narrative-play)
+    + [Narrative Play: When we start a mission, we finish it.]
+(#narrative-play-when-we-start-a-mission-we-finish-it)
   * [Mass Effect 2](#mass-effect-2)
     + [Scorched Earth `*`](#scorched-earth-)
     + [Small Arms `*`](#small-arms-)
