@@ -286,25 +286,29 @@ minerals on the world. Whether anything is found or not, once
 the Mako reaches it's active marker the crew should return to
 the _Normandy_.
 
-#### Narrative Play
-Game-play must remain narrative.  This is intended to preclude
-various XP and credit farming techniques that tend to ruin the
-narrative flow of the game: i.e., entering a system, ignoring any
-mission from Hackett et al that spawns, scanning the system for
-credits, then leaving; dropping onto a planet to only fight the 
-Thresher Maw, survey minerals, recover probes, etc.
+#### Narrative Play: When we start a mission, we finish it.
+Gameplay should remain narrative. In practice this rule means:
+- The Normandy may enter any cluster at anytime.
+- Cluster do not have to be completed as atomic units of gameplay.
+- Star Systems and worlds _are_ atomic units of gameplay.
+- When the _Normandy_ enters a Star System Shepard must complete all
+missions in that system before exiting the system.
+- When Shepard and sqad deploy to a world all missions on that
+world must be completed before the squad may return to the
+_Normandy_.
+- Returning to the _Normandy_ to swap squadmates or repair the
+Mako is not allowed.  Returning to the Normandy is allowed to attempt
+to clear a `void` game situation if one arises.
+- World for the purpose of this rule is defined to mean any
+"landable" game area, i.e., planets, moons, other vessels.
+- Feros, Noveria, Virmire, and Therum are worlds under this rule.
+- Citadel and Pinnacle Station are exempted from this rule as 
+Hub areas.
 
-Basically if you can't answer the question of why you are there
-or what you are doing logically from Shepard's in-game perspective
-you shouldn't be doing it.
-
-Worlds and systems that the player feels unwilling or unable to
-play to completion at the time in question should not be entered
-into or landed upon until better ready to do so.
-
-This rule is intended to keep a perma-death playthrough a character-
-driven story rather than a mechanical and disjointed exercise in
-XP and credit grinding.
+In effect this rule means that Shepard should not navigate
+to any Star System s/he is unprepared at the current time to tackle.
+The rule's purpose is intended to enforce narrative logic onto the
+playthrough.
 
 ### Mass Effect 2
 
