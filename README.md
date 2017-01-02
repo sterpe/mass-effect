@@ -27,7 +27,7 @@
     + [Scorched Earth `*`](#scorched-earth-)
     + [Small Arms `*`](#small-arms-)
     + [Borrowed Time `*`](#borrowed-time-)
-      - [Additional "Narrative" considerations[
+      - [Additional "Narrative" considerations]
 (#additional-narrative-considerations)
     + [Toothless](#toothless)
 
