@@ -10,25 +10,20 @@
     + [Shortage `*`](#shortage-)
     + [Vanilla Rounds `*`](#vanilla-rounds-)
     + [Adept Privilege `*`](#adept-privilege-)
-    + [Safespace-free Zones (AKA Lockdown)]
-(#safespace-free-zones-aka-lockdown)
+    + [Safespace-free Zones (AKA Lockdown)](#safespace-free-zones-aka-lockdown)
     + [Jarhead](#jarhead)
     + [Always in Regs](#always-in-regs)
     + [Med-clinic Economics](#med-clinic-economics)
-    + [Spoils of War: Geth Pulse Rifle]
-(#spoils-of-war-geth-pulse-rifle)
+    + [Spoils of War: Geth Pulse Rifle](#spoils-of-war-geth-pulse-rifle)
     + [No License: Geth Armory](#no-license-geth-armory)
     + [Mineral of Opportunity](#mineral-of-opportunity)
-    + [Narrative Play: When we start a mission, we finish it.]
-(#narrative-play-when-we-start-a-mission-we-finish-it)
-      - [Note on Tantau & Pinnacle Station]
-(#note-on-tantau--pinnacle-station)
+    + [Narrative Play: When we start a mission, we finish it.](#narrative-play-when-we-start-a-mission-we-finish-it)
+      - [Note on Tantau & Pinnacle Station](#note-on-tantau--pinnacle-station)
   * [Mass Effect 2](#mass-effect-2)
     + [Scorched Earth `*`](#scorched-earth-)
     + [Small Arms `*`](#small-arms-)
     + [Borrowed Time `*`](#borrowed-time-)
-      - [Additional "Narrative" considerations]
-(#additional-narrative-considerations)
+      - [Additional "Narrative" considerations](#additional-narrative-considerations)
     + [Toothless](#toothless)
 
 <!-- tocstop -->
