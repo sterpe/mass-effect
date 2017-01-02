@@ -27,6 +27,8 @@
     + [Scorched Earth `*`](#scorched-earth-)
     + [Small Arms `*`](#small-arms-)
     + [Borrowed Time `*`](#borrowed-time-)
+      - [Additional "Narrative" considerations[
+(#additional-narrative-considerations)
     + [Toothless](#toothless)
 
 <!-- tocstop -->
@@ -378,6 +380,13 @@ and not recruitment missions.
 - Samara's Loyalty mission is an "Optional mission" not a "Recruitment
 mission" for her daughter Morinth, since there is no net change in
 squad size.
+
+##### Additional "Narrative" considerations
+
+These extra rules loosen the Recruit/Optional sequence restrictions
+slightly to allow several important missions to be accomplished at the
+time they appear, if so desired.
+
 - All of Overlord DLC is considered to be 1 (one) "Optional Mission"
 as even though there are multiple "Mission Complete" screens, as it
 is an atomic mission set and impossible once started to then back
@@ -385,6 +394,12 @@ out or piecemeal the sub-missions at a different time.  The individual
 XP for each mission is also relatively low and taken together only
 sums to about 1 Level (roughly 1200 XP) so it doesn't seem to be a 
 violation of rule intent to treat it that way.
+- To give an option to do Arrival before the Suicide Mission, where
+IMO it makes more sense, given the time-critical nature of it, Arrival
+DLC is considered to be neither an Optional Mission nor a Recruitment
+Mission but analogous to Freedom's Progress, Horizon, and Collector
+Vessel missions.  It does not count in anyway for or against the 
+Recruitment->Optional->Recruitment->Optional->... sequence.
 
 This rule is meant to limit XP gain and the number of completed loyalty
 mission prior to the Reaper IFF mission which, essentially, kicks off
