@@ -1,8 +1,8 @@
 PreCommit:
   LineLength:
     enabled: true
-    description: Verify source lines do not exceed 72 columns
-    max: 72
+    description: Verify source lines do not exceed 120 columns
+    max: 120
     exclude: [
       "package.json",
       "__tests__/**/*.xml",
