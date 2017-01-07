@@ -12,8 +12,8 @@ Face codes across all three Mass Effect games for my femShep build.
 
 Character | Cashmere Shepard / Female / Earthborn / Soldier / Sole Survivor 
 ---:| ---
-ME  | `7-4-3-X . 17-14-24-24-28-20-1 . 6-14-14-31-10-4-3 . 15-1-9-20 . 1-5-1-12-1 . 12-1-12 . 4-6-16-6 . 6-1-5`
-ME2 | `743.HEP.PTK.16E.EWA.43F.19K.151.C1C.1C4.6G6.615`
+ME  | `7-4-3-X . 17-14-24-24-(28`&#124;`16)-20-1 . 6-14-14-31-10-4-3 . 15-1-9-20 . 1-5-1-12-1 . 12-1-12 . 4-6-16-6 . 6-1-5`
+ME2 | `743.HEP.P(T`&#124;`G)K.16E.EWA.43F.19K.151.C1C.1C4.6G6.615`
 ME3 | `743.HEP.P(T`&#124;`G)K.16E.EWA.43F.19K.151.C1C.1C3.6G5.215`
 
    | ME | ME2 | ME3
@@ -28,7 +28,7 @@ _Scar_ | 6 | n/a | n/a
 *Face Size* | 14 | E | E
 *Cheek Width* | 24 | P | P
 *Cheek Bones* | 24 | P | P
-*Cheek Gaunt* | 28 | T | T/G
+*Cheek Gaunt* | 28/16 | T/G | T/G
 *Ear Size* | 20 | K | K 
 *Ear Orientation* | 1 | 1 | 1
 **Eyes** | | |
