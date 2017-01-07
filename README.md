@@ -1,7 +1,7 @@
 # mass effect
 
-#### Current Playthrough
-https://www.pivotaltracker.com/n/projects/1423086
+#### Mass Effect Permadeath Rules
+https://github.com/sterpe/mass-effect-permadeath.git
 
 #### Commander Shepard
 
