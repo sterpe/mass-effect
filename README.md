@@ -17,9 +17,9 @@ ME2 | `743.HEP.P(T`&#124;`G)K.16E.EWA.43F.19K.151.C1C.1C4.6G6.615`
 ME3 | `743.HEP.P(T`&#124;`G)K.16E.EWA.43F.19K.151.C1C.1C3.6G5.215`
 
 ##### Note
-Originally, I went with a very high value of `28` for _Cheek Gaunt_.
-In later years, I adjusted that down to `16`, as it looks a little bit better
-(Especially in _Mass Effect 3_).
+Originally, I went with a very high value of `28` for _`Cheek Gaunt`_.
+In later years, I adjusted that down to `16`, as it looks a little bit better,
+especially in _Mass Effect 3_.
 
    | ME | ME2 | ME3
 ---: | --- | --- | ---
