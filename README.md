@@ -7,6 +7,7 @@ https://github.com/sterpe/mass-effect-permadeath.git
 
 Face codes across all three Mass Effect games for my femShep build.
 
+<img alt="Cashmere Shepard" src="https://raw.githubusercontent.com/sterpe/me2-gibbed-editor-facecode/master/images/2008-11-26_154041.jpg" width="480px"/>
 [![](https://img.youtube.com/vi/uDySNwoPIOc/1.jpg)](https://www.youtube.com/watch?v=uDySNwoPIOc)
 [![](https://img.youtube.com/vi/2vv09cBdUEI/1.jpg)](https://www.youtube.com/watch?v=2vv09cBdUEI)
 
