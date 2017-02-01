@@ -303,6 +303,9 @@ to clear a `void` game situation if one arises.
 - World for the purpose of this rule is defined to mean any
 "landable" game area, i.e., planets, moons, other vessels.
 - Feros, Noveria, Virmire, and Therum are worlds under this rule.
+However on Feros and Noveria you may return to the Normandy and do
+whatever, swap squad, buy supplies, change equipment, chat, etc.,
+so long as the _Normandy_ does not "lift off".
 - Citadel and Pinnacle Station are exempted from this rule as 
 Hub areas.
 
