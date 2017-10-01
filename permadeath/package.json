@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/sterpe/mass-effect-permadeath#readme",
   "devDependencies": {
-    "markdown-toc": "^0.13.0"
+    "markdown-toc": "^1.2.0"
   }
 }
