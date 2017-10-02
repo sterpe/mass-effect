@@ -1,14 +1,5 @@
 PreCommit:
-  LineLength:
-    enabled: true
-    description: Verify source lines do not exceed 120 columns
-    max: 120
-    exclude: [
-      "package.json",
-      "__tests__/**/*.xml",
-      "__tests__/**/*.srt"
-    ]
   Standard:
     enabled: true
-    required_executable: "node_modules/.bin/standard"
-    command: ["node_modules/.bin/standard"]
+    required_executable: "yarn"
+    command: ["yarn", "standard"]
