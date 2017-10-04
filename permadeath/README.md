@@ -1,6 +1,7 @@
 # mass-effect-permadeath
 
 See also https://github.com/sterpe/mass-effect.git for character facecode and information.
+
 <!-- toc -->
 
 - [introduction](#introduction)

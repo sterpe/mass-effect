@@ -1,7 +1,7 @@
 # mass effect
 
 #### Mass Effect Permadeath Rules
-https://github.com/sterpe/mass-effect-permadeath.git
+[permadeath/README.git](permadeath/README.git)
 
 #### Commander Shepard
 
