@@ -4,6 +4,7 @@
   "description": "A repository dedicated to Mass Effect.",
   "main": "README.md",
   "scripts": {
+    "doc": "yarn markdown-toc -i permadeath/README.md",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": "git+https://github.com/sterpe/mass-effect.git",
@@ -14,6 +15,7 @@
   },
   "homepage": "https://github.com/sterpe/mass-effect#readme",
   "devDependencies": {
+    "flow-bin": "^0.56.0",
     "markdown-toc": "^1.2.0"
   },
   "dependencies": {
